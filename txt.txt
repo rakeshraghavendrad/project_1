@@ -1,0 +1,4 @@
+host: 'arshniv1.cuceurst1z3t.us-east-1.rds.amazonaws.com',
+  user: 'admin',
+  password: 'arshnivdb',
+  database: 'autovmharbor'
